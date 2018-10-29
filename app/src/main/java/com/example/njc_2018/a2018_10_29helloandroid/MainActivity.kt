@@ -13,6 +13,10 @@ class MainActivity : AppCompatActivity() {
         tapHere.setOnClickListener {
             textView.text="ボタンがタップされました"
         }
+
+        button_again.setOnClickListener {
+            textView.text = "ちわ！あんどろいど"
+        }
     }
 
 }

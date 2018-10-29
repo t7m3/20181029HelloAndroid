@@ -25,4 +25,10 @@
             app:layout_constraintStart_toStartOf="parent" android:layout_marginLeft="16dp"
             android:layout_marginStart="16dp" app:layout_constraintBottom_toBottomOf="parent"
             android:layout_marginBottom="16dp" android:id="@+id/imageView" android:scaleType="center"/>
+    <Button
+            android:text="元に戻す"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" app:layout_constraintBottom_toBottomOf="parent"
+            android:layout_marginRight="16dp" android:layout_marginEnd="16dp" app:layout_constraintEnd_toEndOf="parent"
+            android:layout_marginBottom="16dp" android:id="@+id/button_again"/>
 </android.support.constraint.ConstraintLayout>
