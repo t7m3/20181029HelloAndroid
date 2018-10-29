@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">2018-10-29 HelloAndroid</string>
+    <string name="hello">ちわ！あんどろいど</string>
+    <string name="tap_here">ここをタップ！</string>
+</resources>
